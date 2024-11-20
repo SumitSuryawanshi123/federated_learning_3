@@ -111,8 +111,8 @@ if __name__ == "__main__":
 
     strategy = fl.server.strategy.FedAvg(
         fraction_fit=1.0,
-        min_available_clients=5,
-        min_fit_clients=5,
+        min_available_clients=10,
+        min_fit_clients=10,
         evaluate_metrics_aggregation_fn=weighted_average,
         evaluate_fn=get_evaluate_fn(device)
     )
