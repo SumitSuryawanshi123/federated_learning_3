@@ -1,0 +1,378 @@
+Round 0:
+Mean accuracy: 0.6380
+class_0_acc: 0.6986
+class_1_acc: 0.8276
+class_2_acc: 0.8196
+class_3_acc: 0.7016
+class_4_acc: 0.1018
+class_5_acc: 0.9657
+class_6_acc: 0.9546
+class_7_acc: 0.4889
+class_8_acc: 0.8921
+class_9_acc: 0.4264
+class_10_acc: 0.9708
+class_11_acc: 0.1280
+class_12_acc: 0.1058
+class_13_acc: 0.5081
+class_14_acc: 0.9808
+
+Round 1:
+Mean accuracy: 0.8374
+class_0_acc: 0.7016
+class_1_acc: 0.8276
+class_2_acc: 0.8196
+class_3_acc: 0.7510
+class_4_acc: 0.8982
+class_5_acc: 0.9657
+class_6_acc: 0.9546
+class_7_acc: 0.6442
+class_8_acc: 0.8972
+class_9_acc: 0.6744
+class_10_acc: 0.9708
+class_11_acc: 0.8720
+class_12_acc: 0.8942
+class_13_acc: 0.7087
+class_14_acc: 0.9808
+
+Round 2:
+Mean accuracy: 0.8719
+class_0_acc: 0.7863
+class_1_acc: 0.8448
+class_2_acc: 0.8538
+class_3_acc: 0.8236
+class_4_acc: 0.8982
+class_5_acc: 0.9657
+class_6_acc: 0.9546
+class_7_acc: 0.7288
+class_8_acc: 0.9194
+class_9_acc: 0.7964
+class_10_acc: 0.9708
+class_11_acc: 0.8720
+class_12_acc: 0.8982
+class_13_acc: 0.7853
+class_14_acc: 0.9808
+
+Round 3:
+Mean accuracy: 0.9038
+class_0_acc: 0.8528
+class_1_acc: 0.8861
+class_2_acc: 0.8861
+class_3_acc: 0.8810
+class_4_acc: 0.8982
+class_5_acc: 0.9657
+class_6_acc: 0.9546
+class_7_acc: 0.8286
+class_8_acc: 0.9526
+class_9_acc: 0.8478
+class_10_acc: 0.9708
+class_11_acc: 0.8810
+class_12_acc: 0.9153
+class_13_acc: 0.8558
+class_14_acc: 0.9808
+
+Round 4:
+Mean accuracy: 0.9255
+class_0_acc: 0.8931
+class_1_acc: 0.9052
+class_2_acc: 0.9083
+class_3_acc: 0.9002
+class_4_acc: 0.9173
+class_5_acc: 0.9657
+class_6_acc: 0.9546
+class_7_acc: 0.8790
+class_8_acc: 0.9617
+class_9_acc: 0.9032
+class_10_acc: 0.9708
+class_11_acc: 0.9052
+class_12_acc: 0.9375
+class_13_acc: 0.8972
+class_14_acc: 0.9829
+
+Round 5:
+Mean accuracy: 0.9433
+class_0_acc: 0.9204
+class_1_acc: 0.9335
+class_2_acc: 0.9294
+class_3_acc: 0.9375
+class_4_acc: 0.9385
+class_5_acc: 0.9677
+class_6_acc: 0.9647
+class_7_acc: 0.8982
+class_8_acc: 0.9728
+class_9_acc: 0.9183
+class_10_acc: 0.9758
+class_11_acc: 0.9194
+class_12_acc: 0.9577
+class_13_acc: 0.9294
+class_14_acc: 0.9859
+
+Round 6:
+Mean accuracy: 0.9570
+class_0_acc: 0.9335
+class_1_acc: 0.9476
+class_2_acc: 0.9546
+class_3_acc: 0.9526
+class_4_acc: 0.9567
+class_5_acc: 0.9748
+class_6_acc: 0.9688
+class_7_acc: 0.9224
+class_8_acc: 0.9748
+class_9_acc: 0.9446
+class_10_acc: 0.9829
+class_11_acc: 0.9466
+class_12_acc: 0.9617
+class_13_acc: 0.9456
+class_14_acc: 0.9879
+
+Round 7:
+Mean accuracy: 0.9636
+class_0_acc: 0.9476
+class_1_acc: 0.9627
+class_2_acc: 0.9546
+class_3_acc: 0.9536
+class_4_acc: 0.9677
+class_5_acc: 0.9748
+class_6_acc: 0.9819
+class_7_acc: 0.9304
+class_8_acc: 0.9819
+class_9_acc: 0.9466
+class_10_acc: 0.9889
+class_11_acc: 0.9577
+class_12_acc: 0.9708
+class_13_acc: 0.9435
+class_14_acc: 0.9919
+
+Round 8:
+Mean accuracy: 0.9690
+class_0_acc: 0.9486
+class_1_acc: 0.9667
+class_2_acc: 0.9617
+class_3_acc: 0.9556
+class_4_acc: 0.9758
+class_5_acc: 0.9798
+class_6_acc: 0.9909
+class_7_acc: 0.9415
+class_8_acc: 0.9829
+class_9_acc: 0.9486
+class_10_acc: 0.9909
+class_11_acc: 0.9677
+class_12_acc: 0.9778
+class_13_acc: 0.9516
+class_14_acc: 0.9950
+
+Round 9:
+Mean accuracy: 0.9725
+class_0_acc: 0.9496
+class_1_acc: 0.9738
+class_2_acc: 0.9647
+class_3_acc: 0.9617
+class_4_acc: 0.9839
+class_5_acc: 0.9849
+class_6_acc: 0.9889
+class_7_acc: 0.9486
+class_8_acc: 0.9839
+class_9_acc: 0.9567
+class_10_acc: 0.9909
+class_11_acc: 0.9728
+class_12_acc: 0.9819
+class_13_acc: 0.9496
+class_14_acc: 0.9960
+
+Round 10:
+Mean accuracy: 0.9728
+class_0_acc: 0.9516
+class_1_acc: 0.9738
+class_2_acc: 0.9657
+class_3_acc: 0.9637
+class_4_acc: 0.9819
+class_5_acc: 0.9869
+class_6_acc: 0.9929
+class_7_acc: 0.9425
+class_8_acc: 0.9829
+class_9_acc: 0.9526
+class_10_acc: 0.9909
+class_11_acc: 0.9748
+class_12_acc: 0.9849
+class_13_acc: 0.9526
+class_14_acc: 0.9940
+
+Round 11:
+Mean accuracy: 0.9755
+class_0_acc: 0.9546
+class_1_acc: 0.9748
+class_2_acc: 0.9677
+class_3_acc: 0.9647
+class_4_acc: 0.9849
+class_5_acc: 0.9909
+class_6_acc: 0.9940
+class_7_acc: 0.9486
+class_8_acc: 0.9829
+class_9_acc: 0.9587
+class_10_acc: 0.9940
+class_11_acc: 0.9808
+class_12_acc: 0.9849
+class_13_acc: 0.9546
+class_14_acc: 0.9960
+
+Round 12:
+Mean accuracy: 0.9755
+class_0_acc: 0.9567
+class_1_acc: 0.9738
+class_2_acc: 0.9688
+class_3_acc: 0.9647
+class_4_acc: 0.9839
+class_5_acc: 0.9919
+class_6_acc: 0.9950
+class_7_acc: 0.9476
+class_8_acc: 0.9808
+class_9_acc: 0.9607
+class_10_acc: 0.9940
+class_11_acc: 0.9798
+class_12_acc: 0.9859
+class_13_acc: 0.9546
+class_14_acc: 0.9950
+
+Round 13:
+Mean accuracy: 0.9765
+class_0_acc: 0.9597
+class_1_acc: 0.9728
+class_2_acc: 0.9677
+class_3_acc: 0.9627
+class_4_acc: 0.9839
+class_5_acc: 0.9929
+class_6_acc: 0.9960
+class_7_acc: 0.9546
+class_8_acc: 0.9829
+class_9_acc: 0.9587
+class_10_acc: 0.9940
+class_11_acc: 0.9819
+class_12_acc: 0.9879
+class_13_acc: 0.9567
+class_14_acc: 0.9950
+
+Round 14:
+Mean accuracy: 0.9767
+class_0_acc: 0.9577
+class_1_acc: 0.9778
+class_2_acc: 0.9667
+class_3_acc: 0.9637
+class_4_acc: 0.9859
+class_5_acc: 0.9899
+class_6_acc: 0.9960
+class_7_acc: 0.9536
+class_8_acc: 0.9829
+class_9_acc: 0.9587
+class_10_acc: 0.9940
+class_11_acc: 0.9839
+class_12_acc: 0.9869
+class_13_acc: 0.9577
+class_14_acc: 0.9960
+
+Round 15:
+Mean accuracy: 0.9771
+class_0_acc: 0.9526
+class_1_acc: 0.9778
+class_2_acc: 0.9698
+class_3_acc: 0.9677
+class_4_acc: 0.9859
+class_5_acc: 0.9929
+class_6_acc: 0.9970
+class_7_acc: 0.9516
+class_8_acc: 0.9798
+class_9_acc: 0.9627
+class_10_acc: 0.9940
+class_11_acc: 0.9839
+class_12_acc: 0.9899
+class_13_acc: 0.9546
+class_14_acc: 0.9960
+
+Round 16:
+Mean accuracy: 0.9766
+class_0_acc: 0.9506
+class_1_acc: 0.9768
+class_2_acc: 0.9708
+class_3_acc: 0.9698
+class_4_acc: 0.9839
+class_5_acc: 0.9919
+class_6_acc: 0.9960
+class_7_acc: 0.9466
+class_8_acc: 0.9788
+class_9_acc: 0.9627
+class_10_acc: 0.9940
+class_11_acc: 0.9839
+class_12_acc: 0.9899
+class_13_acc: 0.9577
+class_14_acc: 0.9960
+
+Round 17:
+Mean accuracy: 0.9773
+class_0_acc: 0.9567
+class_1_acc: 0.9728
+class_2_acc: 0.9677
+class_3_acc: 0.9677
+class_4_acc: 0.9859
+class_5_acc: 0.9929
+class_6_acc: 0.9970
+class_7_acc: 0.9556
+class_8_acc: 0.9808
+class_9_acc: 0.9597
+class_10_acc: 0.9929
+class_11_acc: 0.9829
+class_12_acc: 0.9909
+class_13_acc: 0.9607
+class_14_acc: 0.9950
+
+Round 18:
+Mean accuracy: 0.9763
+class_0_acc: 0.9546
+class_1_acc: 0.9758
+class_2_acc: 0.9667
+class_3_acc: 0.9657
+class_4_acc: 0.9839
+class_5_acc: 0.9940
+class_6_acc: 0.9960
+class_7_acc: 0.9546
+class_8_acc: 0.9798
+class_9_acc: 0.9607
+class_10_acc: 0.9940
+class_11_acc: 0.9839
+class_12_acc: 0.9879
+class_13_acc: 0.9516
+class_14_acc: 0.9950
+
+Round 19:
+Mean accuracy: 0.9778
+class_0_acc: 0.9567
+class_1_acc: 0.9788
+class_2_acc: 0.9677
+class_3_acc: 0.9667
+class_4_acc: 0.9859
+class_5_acc: 0.9929
+class_6_acc: 0.9970
+class_7_acc: 0.9546
+class_8_acc: 0.9808
+class_9_acc: 0.9647
+class_10_acc: 0.9940
+class_11_acc: 0.9849
+class_12_acc: 0.9899
+class_13_acc: 0.9556
+class_14_acc: 0.9970
+
+Round 20:
+Mean accuracy: 0.9780
+class_0_acc: 0.9607
+class_1_acc: 0.9758
+class_2_acc: 0.9698
+class_3_acc: 0.9657
+class_4_acc: 0.9849
+class_5_acc: 0.9919
+class_6_acc: 0.9970
+class_7_acc: 0.9546
+class_8_acc: 0.9819
+class_9_acc: 0.9617
+class_10_acc: 0.9940
+class_11_acc: 0.9839
+class_12_acc: 0.9899
+class_13_acc: 0.9607
+class_14_acc: 0.9970
+
